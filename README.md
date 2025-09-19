@@ -10,7 +10,7 @@
 * Normalization, Denormalization
 * Fact and Dimension tables
 * Star and Snowflake Schema
-* **Project 1: Data Modeling with Postgres**
+* **Project 1: Data Modeling with Postgres** [Details](https://github.com/cc59chong/Data-Modeling-with-Postgres) <br>
 This project builds a star schema in Postgres with fact and dimension tables for analytics. A Python ETL pipeline transfers data from local JSON files into these tables.
 Apache Cassandra exercises: create tables, primary key, clustering column, where clause
 * **Project 2: Data Modeling with Apache Cassandra**
