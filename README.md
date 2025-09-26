@@ -42,6 +42,7 @@ Apache Cassandra exercises: create tables, primary key, clustering column, where
 * Distribution Style: Even, All, Auto, Key
 * Sorting Key
 * **Exercise 4: Table Design**
-### L4. Project: Data Warehouse
+### L4. Project
+* **Project: Data Warehouse** [deatails](https://github.com/cc59chong/Data-Warehouse-with-AmazonS3-Redshift)
  > This project designs and implements a cloud-based Data Warehouse on Amazon Redshift. It demonstrates an end-to-end ETL pipeline that extracts song and user activity data from files stored in an Amazon S3 bucket, stages and processes it in Redshift, and transforms it into a set of optimized dimensional tables (a star schema). 
 
